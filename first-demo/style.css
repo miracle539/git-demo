@@ -1,0 +1,19 @@
+body, html {
+    font-size: 16px;
+    display: flex;
+    background-color: rgb(75, 138, 87);
+    color: rgb(58, 59, 5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    margin: 0 auto;
+    margin: 0;
+    border: 0;
+    /* background-color: beige; */
+    /* width: 100%; */
+}
